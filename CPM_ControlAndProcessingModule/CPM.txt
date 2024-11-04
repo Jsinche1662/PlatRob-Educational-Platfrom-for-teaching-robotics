@@ -1,1 +1,6 @@
-In this...
+This folder is divided into various sections related to manufacturing:
+
+CAD: This folder contains the files related to the 3D printing required for the module.
+PCB: This folder contains the design files for the module's PCBs for modification/manufacturing.
+GUIDES: This folder contains the assembly manuals for the module.
+COMPONENTS: This folder contains the list of commercial components and costs associated with the module.
