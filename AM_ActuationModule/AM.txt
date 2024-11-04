@@ -1,1 +1,1 @@
-
+Here, the CAD files for 3D printing of the Actuation Module are provided. All files intended for 3D printing are marked with the "AM" label at the beginning. Additionally, the .step file of the complete module assembly is included as a reference.
